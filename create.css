@@ -1,0 +1,78 @@
+table {
+  width: 471px;
+  height: 150px;
+  background: rgba(187, 204, 222, 0.4);
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 10px;
+  width: 337.33px;
+  height: 77.33px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 35px;
+
+  color: #42274a;
+}
+
+.category {
+  margin-top: auto;
+}
+
+.textt {
+  position: absolute;
+  width: 129.01px;
+  height: 25.89px;
+  margin-left: 20px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 23px;
+  margin-top: 10px;
+  color: #42274a;
+}
+
+.logo1 {
+  width: 471px;
+  height: 302px;
+  border-radius: 15px;
+  margin-top: -10px;
+}
+
+.text1 {
+  margin-top: auto;
+
+  width: 100.57px;
+  height: 15.37px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 17px;
+  line-height: 20px;
+
+  color: #42274a;
+}
+
+.createbutton {
+  margin-top: auto;
+  width: 250.93px;
+  height: 34.96px;
+  margin-left: 80px;
+  background: #f94b5d;
+  border-radius: 10px;
+}
+
+.listcatbutoni {
+  position: absolute;
+  width: 89.95px;
+  height: 29.66px;
+  background: #fedbdf;
+  border-radius: 15px;
+}

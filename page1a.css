@@ -1,0 +1,51 @@
+form {
+  position: absolute;
+  width: 470px;
+  height: 550px;
+  margin-top: 30px;
+  background: rgba(187, 204, 222, 0.5);
+  border-radius: 15px;
+}
+.logo1a {
+  position: absolute;
+  width: 150.34px;
+  height: 156.25px;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+h3 {
+  position: absolute;
+  width: 240.55px;
+  height: 53.12px;
+  margin-top: 210px;
+  margin-left: 40px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #42274a;
+}
+
+h4 {
+  position: absolute;
+  width: 143.33px;
+  height: 30.21px;
+  margin-top: 260px;
+  margin-left: 20px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #42274a;
+}
+
+.taskuu {
+  margin-top: 1000px;
+}
